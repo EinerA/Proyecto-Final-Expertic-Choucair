@@ -1,5 +1,6 @@
 # Proyecto-Final-Expertic-Choucair
 La automatización de los tres casos de pruebas automáticas fueron realizadas con los siguientes criterios técnicos
+
 Patrón: ScreenPlay 
 
 Lenguaje: Java
